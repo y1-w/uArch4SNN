@@ -1,4 +1,4 @@
-# snn-coprocessor
+# A microarchitecture for SNN accelerator
 
 Spiking Neural Network (SNN) coprocessor for convolutional and fully-connected layers
 
