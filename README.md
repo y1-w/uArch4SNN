@@ -1,4 +1,4 @@
-# A microarchitecture for SNN accelerator
+# SNN accelerator microarchitecture
 
 Spiking Neural Network (SNN) coprocessor for convolutional and fully-connected layers
 
